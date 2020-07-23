@@ -9,7 +9,7 @@ module.exports = {
     "https://www.carpardoo.dk/",
     "https://www.carpardoo.fr/",
     "https://www.carpardoo.nl/",
-    "https://www.carpardoo.pl",
+    "https://www.carpardoo.pl/",
     "https://www.kfzteile24.at/",
     "https://www.kfzteile.com/",
 	]
